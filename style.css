@@ -1,0 +1,41 @@
+
+ h1{
+    color: #000000;
+
+}
+/*
+*{
+    border:solid
+}
+*/
+.header{
+    background-color: rgb(248, 130, 34);
+    display: flex;
+    justify-content: space-between;
+    margin: 10%
+}
+
+p,h2{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #FFFFFF;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: rgb(155, 10, 212);
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+.menu{
+    font-size: large;
+}
